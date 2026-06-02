@@ -1,37 +1,38 @@
-# Hi, I'm Rajesh 👋
+<h1 align="center">Rajesh</h1>
 
-### Java Full Stack Developer
+<p align="center">
+  Java Full Stack Developer
+</p>
 
-🚀 Currently Learning
-- Java
-- JDBC
-- Servlets
-- JSP
-- Spring Boot
-- PostgreSQL
+<p align="center">
+  Building modern web applications with Java, Spring Boot & PostgreSQL.
+</p>
 
-🎯 2026 Goals
-- Build 10 Full Stack Projects
-- Master Spring Boot
-- Learn Docker
-- Deploy Applications
+---
+
+## About Me
+
+- 💻 Java Full Stack Developer
+- 🌱 Currently learning Spring Boot & Backend Development
+- 🚀 Building real-world projects every day
+- 🎯 Focused on clean code and scalable applications
+
+---
 
 ## Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-## Connect
-
-- LinkedIn
-- Portfolio
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,html,css,js,git,github,vscode" />
+</p>
 
 ---
-BUILD • CODE • DEPLOY • REPEAT
+
+## Current Focus
+
+```text
+Java           ██████████ 100%
+JDBC           ████████░░ 80%
+Servlets       ███████░░░ 70%
+JSP            ███████░░░ 70%
+Spring Boot    █████░░░░░ 50%
+PostgreSQL     ████████░░ 80%
