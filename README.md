@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Rajesh 👋
 
-<!--
-**IRajesh1209/IRajesh1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer
 
-Here are some ideas to get you started:
+🚀 Currently Learning
+- Java
+- JDBC
+- Servlets
+- JSP
+- Spring Boot
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 2026 Goals
+- Build 10 Full Stack Projects
+- Master Spring Boot
+- Learn Docker
+- Deploy Applications
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## Connect
+
+- LinkedIn
+- Portfolio
+
+---
+BUILD • CODE • DEPLOY • REPEAT
