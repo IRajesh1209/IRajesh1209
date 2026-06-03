@@ -1,4 +1,9 @@
-<div align="center"> <!-- Ultra Premium Animated Header --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E676,50:00C853,100:1B5E20&text=RAJESH&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> <!-- Profile Views --> <img src="https://komarev.com/ghpvc/?username=Rajesh&label=Profile%20Views&color=00C853&style=for-the-badge"/> <br><br> <!-- Typing Animation --> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=34&pause=1000&color=00E676&center=true&vCenter=true&width=850&height=80&lines=Java+Full+Stack+Developer+🚀;Spring+Boot+Developer+🌱;Building+Smart+AI+Projects+🤖;PostgreSQL+%7C+JDBC+%7C+Servlets+⚡;Open+Source+Learner+🔥;Future+Software+Engineer+💻"/> <br><br> <!-- Animated Divider --> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E676,100:1B5E20&height=3"/> <h2>💫 Welcome To My GitHub Universe</h2> <p>
+<div align="center"> <!-- Ultra Premium Animated Header --> 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E676,50:00C853,100:1B5E20&text=RAJESH&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> 
+  <!-- Profile Views --> 
+  <img src="https://komarev.com/ghpvc/?username=Rajesh&label=Profile%20Views&color=00C853&style=for-the-badge"/> <br>
+  <br> <!-- Typing Animation --> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=00E676&center=true&vCenter=true&width=850&height=80&lines=Java+Full+Stack+Developer+🚀;Spring+Boot+Developer+🌱;Building+Smart+AI+Projects+🤖;PostgreSQL+%7C+JDBC+%7C+Servlets+⚡;Open+Source+Learner+🔥;Future+Software+Engineer+💻"/>
 
 ---
 
