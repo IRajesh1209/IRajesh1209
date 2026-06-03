@@ -1,7 +1,7 @@
 <div align="center"> <!-- Ultra Premium Animated Header --> 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E676,50:00C853,100:1B5E20&text=RAJESH&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> 
   <!-- Profile Views --> 
-  <img src="https://komarev.com/ghpvc/?username=Rajesh&label=Profile%20Views&color=00C853&style=for-the-badge"/> <br><!-- Typing Animation --> 
+  <img src="https://komarev.com/ghpvc/?username=Rajesh&label=Profile%20Views&color=00C853&style=for-the-badge"/> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=42&pause=1200&color=00E676&center=true&vCenter=true&width=900&height=80&lines=Rise+⬆️;Grind+⚡;Progress+📈;Repeat+🔄;Succeed!+🏆"/>
 
 ---
