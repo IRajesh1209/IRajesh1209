@@ -1,4 +1,6 @@
-<h1 align="center">Rajesh</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Hi+I'm+Rajesh;Learner" />
+</p>
 
 <p align="center">
   Java
