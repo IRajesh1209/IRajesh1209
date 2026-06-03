@@ -1,7 +1,7 @@
 <h1 align="center">Rajesh</h1>
 
 <p align="center">
-  Java Full Stack Developer
+  Java
 </p>
 
 <p align="center">
