@@ -6,15 +6,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=42&pause=1200&color=00E676&center=true&vCenter=true&width=900&height=80&lines=Rise+⬆️;Grind+⚡;Progress+📈;Repeat+🔄;Succeed!+🏆"/>
 
 ---
-
-## About Me
-
-- 💻 Java Full Stack Developer
-- 🌱 Currently learning Spring Boot & Backend Development
-- 🚀 Building real-world projects every day
-- 🎯 Focused on clean code and scalable applications
-
----
+ME
+Built through failures, refined through consistency.
+Every challenge is a lesson, every setback is fuel.
+I keep moving forward while others look for excuses.
 
 ## Tech Stack
 
