@@ -11,12 +11,14 @@ Built through failures, refined through consistency.
 Every challenge is a lesson, every setback is fuel.
 I keep moving forward while others look for excuses.
 
-## Tech Stack
+## ⚡ Tech Arsenal
 
-
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,html,css,javascript,git,github,vscode" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version_Control-Git%20%7C%20GitHub-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge" />
 </p>
 
 ## Current Focus
