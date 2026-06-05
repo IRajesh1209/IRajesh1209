@@ -4,9 +4,7 @@
   <!-- Profile Views --> 
   <img src="https://komarev.com/ghpvc/?username=Rajesh&label=Profile%20Views&color=00C853&style=for-the-badge"/> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=42&pause=1200&color=00E676&center=true&vCenter=true&width=900&height=80&lines=Rise+⬆️;Grind+⚡;Progress+📈;Repeat+🔄;Succeed!+🏆"/>
-
----<h2 align="center">⚡ ABOUT ME</h2>
-
+<h2 align="center">⚡ ABOUT ME</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20through%20failures-Refined%20through%20consistency-1b3619?style=for-the-badge" />
   <br><br>
