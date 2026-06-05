@@ -13,11 +13,19 @@ I keep moving forward while others look for excuses.
 
 ## Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,html,css,js,git,github,vscode" />
-</p>
+## 💻 Technologies & Tools
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ## Current Focus
 
