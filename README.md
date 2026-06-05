@@ -5,11 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=Rajesh&label=Profile%20Views&color=00C853&style=for-the-badge"/> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=42&pause=1200&color=00E676&center=true&vCenter=true&width=900&height=80&lines=Rise+⬆️;Grind+⚡;Progress+📈;Repeat+🔄;Succeed!+🏆"/>
 
----
-ME
-Built through failures, refined through consistency.
-Every challenge is a lesson, every setback is fuel.
-I keep moving forward while others look for excuses.
+---<h2 align="center">⚡ ABOUT ME</h2>
+
+<p align="center">
+Built through failures, refined through consistency.<br>
+Every challenge is a lesson, every setback is fuel.<br>
+<strong>I keep moving forward while others look for excuses.</strong>
+</p>
 
 ## ⚡ Tech 
 
