@@ -8,9 +8,11 @@
 ---<h2 align="center">⚡ ABOUT ME</h2>
 
 <p align="center">
-Built through failures, refined through consistency.<br>
-Every challenge is a lesson, every setback is fuel.<br>
-<strong>I keep moving forward while others look for excuses.</strong>
+  <img src="https://img.shields.io/badge/Built%20through%20failures-Refined%20through%20consistency-1b3619?style=for-the-badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Every%20challenge%20is%20a%20lesson-Every%20setback%20is%20fuel-2e5a2b?style=for-the-badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/I%20keep%20moving%20forward-While%20others%20look%20for%20excuses-3f7d38?style=for-the-badge" />
 </p>
 
 ## ⚡ Tech 
