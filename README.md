@@ -3,6 +3,7 @@
 
   <!-- Profile Views --> 
   <img src="https://komarev.com/ghpvc/?username=Rajesh&label=Profile%20Views&color=00C853&style=for-the-badge"/> 
+  <br>
 <p align="center">
   <img
     src="https://img.shields.io/badge/RISE%20⬆️%20•%20GRIND%20⚡%20•%20PROGRESS%20📈%20•%20REPEAT%20🔄%20•%20SUCCEED!%20🏆-FFFFFF?style=for-the-badge&labelColor=000000&color=000000"
