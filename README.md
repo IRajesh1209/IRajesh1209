@@ -10,7 +10,6 @@
     src="https://img.shields.io/badge/⚡%PROFILE%20LINKS-FFFFFF?style=for-the-badge&labelColor=000000&color=000000&logoColor=FFFFFF"
     height="60"
   />
-<p align="center">
   <a href="https://github.com/Rajesh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
