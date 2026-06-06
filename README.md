@@ -4,12 +4,11 @@
   <!-- Profile Views --> 
   <img src="https://komarev.com/ghpvc/?username=Rajesh&label=Profile%20Views&color=00C853&style=for-the-badge"/> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=42&pause=1200&color=00E676&center=true&vCenter=true&width=900&height=80&lines=Rise+⬆️;Grind+⚡;Progress+📈;Repeat+🔄;Succeed!+🏆"/>
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/⚡%20ABOUT%20ME-FFFFFF?style=for-the-badge&labelColor=000000&color=000000"
-    height="60"
-  />
-</p>
+<h1 align="center">
+  <span style="background-color:#000000; color:#FFFFFF; padding:12px 24px; border-radius:8px;">
+    ⚡ ABOUT ME
+  </span>
+</h1>
   <br>
   <img src="https://img.shields.io/badge/Every%20challenge%20is%20a%20lesson-Every%20setback%20is%20fuel-2e5a2b?style=for-the-badge" />
   <br>
