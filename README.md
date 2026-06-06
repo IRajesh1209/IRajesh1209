@@ -7,7 +7,7 @@
 <p align="center">
   <img
     src="https://img.shields.io/badge/⚡%20ABOUT%20ME-FFFFFF?style=for-the-badge&labelColor=000000&color=000000"
-    height="50"
+    height="60"
   />
 </p>
   <br>
