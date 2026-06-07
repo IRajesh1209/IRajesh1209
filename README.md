@@ -45,7 +45,12 @@
   <img src="https://img.shields.io/badge/I%20keep%20moving%20forward-While%20others%20look%20for%20excuses-3f7d38?style=for-the-badge" />
 </p>
 
-## ⚡ Tech 
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/⚡%20TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=000000&color=000000&logoColor=FFFFFF"
+    height="60"
+  />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-success?style=for-the-badge" />
