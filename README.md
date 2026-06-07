@@ -1,6 +1,6 @@
 <div align="center"> 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFFFFF,100:E5E5E5&text=RAJESH&fontSize=90&fontColor=000000&animation=fadeIn&fontAlignY=38"/>
-
+<br>
   <!-- Profile Views --> 
   <img src="https://komarev.com/ghpvc/?username=Rajesh&label=Profile%20Views&color=00C853&style=for-the-badge"/> 
   <br>
