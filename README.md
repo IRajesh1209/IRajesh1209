@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/Version_Control-Git%20%7C%20GitHub-red?style=for-the-badge" />
  
 </p>
+<br>
 ## Current Focus
 ```text
 Java           ██████████ 100%
