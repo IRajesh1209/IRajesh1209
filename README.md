@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFFFFF,100:E5E5E5&text=RAJESH&fontSize=90&fontColor=000000&animation=fadeIn&fontAlignY=38"/>
