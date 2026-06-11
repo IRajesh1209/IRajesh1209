@@ -50,15 +50,14 @@
     height="60"
   />
 </p>
+````md
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Version_Control-Git%20%7C%20GitHub-red?style=for-the-badge" />
- 
+  <img
+    src="https://img.shields.io/badge/⚡%20CURRENT%20FOCUS-FFFFFF?style=for-the-badge&labelColor=000000&color=000000"
+    height="60"
+  />
 </p>
-<br>
-## Current Focus
+
 ```text
 Java           ██████████ 100%
 JDBC           ████████░░ 80%
@@ -66,3 +65,79 @@ Servlets       ███████░░░ 70%
 JSP            ███████░░░ 70%
 Spring Boot    █████░░░░░ 50%
 PostgreSQL     ████████░░ 80%
+Git & GitHub   ████████░░ 80%
+````
+
+<br>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/⚡%20CURRENTLY%20LEARNING-FFFFFF?style=for-the-badge&labelColor=000000&color=000000"
+    height="60"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/⚡%20PROJECTS-FFFFFF?style=for-the-badge&labelColor=000000&color=000000"
+    height="60"
+  />
+</p>
+
+<p align="center">
+  🌾 <b>Krishi AI</b> — Smart Agriculture Application <br><br>
+  📚 <b>LMS System</b> — Learning Management System <br><br>
+  📝 <b>Quizo</b> — Online Quiz Platform <br><br>
+  💼 <b>Employee Management System</b> — CRUD Application
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/⚡%20GITHUB%20STATS-FFFFFF?style=for-the-badge&labelColor=000000&color=000000"
+    height="60"
+  />
+</p>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rajesh&show_icons=true&theme=default&hide_border=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh&theme=default&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajesh&bg_color=ffffff&color=000000&line=1b3619&point=000000&hide_border=true"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/⚡%20ACHIEVEMENTS-FFFFFF?style=for-the-badge&labelColor=000000&color=000000"
+    height="60"
+  />
+</p>
+
+<p align="center">
+🏆 Java Backend Developer <br><br>
+🚀 Building Real-World Projects <br><br>
+📚 Continuous Learner <br><br>
+💡 Turning Ideas Into Code
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E5E5,100:FFFFFF&height=120&section=footer"/>
+</p>
+```
+
