@@ -112,20 +112,6 @@ Git & GitHub   ████████░░ 80%
 </p>
 
 <p align="center">
-
-🌾 <b>Krishi AI</b><br><br>
-
-📚 <b>LMS System</b><br><br>
-
-📝 <b>Quizo</b><br><br>
-
-💼 <b>Employee Management System</b>
-
-</p>
-
----
-
-<p align="center">
 <img src="https://img.shields.io/badge/⚡%20GITHUB%20STATS-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" height="60"/>
 </p>
 
